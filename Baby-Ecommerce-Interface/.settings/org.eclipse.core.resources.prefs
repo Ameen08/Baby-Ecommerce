@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/information/Information.java=UTF-8
+encoding//src/information/InformationService.java=UTF-8
+encoding//src/information/InformationServiceLocator.java=UTF-8
+encoding//src/information/InformationSoapBindingStub.java=UTF-8
+encoding//src/sellerinfo/SellerInfo.java=UTF-8
+encoding//src/sellerinfo/SellerInfoService.java=UTF-8
+encoding//src/sellerinfo/SellerInfoServiceLocator.java=UTF-8
+encoding//src/sellerinfo/SellerInfoSoapBindingStub.java=UTF-8
